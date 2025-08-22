@@ -1,4 +1,4 @@
-# MyFisrtCode
+# MyFirstCode
 This is my First Git Repository.
 <br>
 Author-Sanjhi Agarwal.
